@@ -22,7 +22,7 @@ if __name__ == '__main__':
     target_feature = 'Loan_Status'
     fold_feature = 'fold'
     num_folds = 5
-    num_trials = 3
+    num_trials = 250
     df_train = get_data('data/train.csv', target_feature=target_feature, fold_feature=fold_feature)
     df_test = get_data('data/test.csv')
 
