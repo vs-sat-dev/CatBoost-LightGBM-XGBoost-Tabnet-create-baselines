@@ -2,7 +2,7 @@
 
 Here I just created CatBoost, LightGBM, XGBoost, and Tabnet baselines for "Loan Prediction" competition from https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#About
 
-I used optuna for hyperparameter tuning and get the following results:
+I used optuna for hyperparameter tuning and got the following results:
 
 ```
 Metric: Accuracy
